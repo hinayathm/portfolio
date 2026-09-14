@@ -50,7 +50,7 @@ export default function App() {
     location: 'Kozhikode, Kerala',
     phone: '7907140419',
     email: 'hinayathmhina@gmail.com',
-    linkedin: 'www.linkedin.com/in/hinayath-m',
+    linkedin: "www.linkedin.com/in/hinayath-m'",
     github: 'https://github.com',
   };
 
